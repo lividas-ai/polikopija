@@ -1,3 +1,4 @@
+import clientsJson from "./poli-clients.json";
 export type { ServicePage as Service, ServicePage, NewsItem, ProjectItem } from "./pages";
 export {
   services,
@@ -50,7 +51,7 @@ export const workExamples: { title: string; image: string }[] = [];
 export const processSteps = [
   { title: "Siųskite brėžinį", text: "DXF, CDR, PLT, RLD, DWG — atsakome darbo valandomis.", image: "/images/process/upload.png" },
   { title: "Gamyba", text: "Pjovimas, frezavimas, lenkimas, dažymas — vienoje vietoje.", image: "/images/process/cnc.png" },
-  { title: "Pristatymas", text: "Lietuvoje ir užsienyje. Tiražas nuo 1 vnt.", image: "/images/process/builder.svg" },
+  { title: "Pristatymas", text: "Lietuvoje ir užsienyje. Tiražas nuo 1 vnt.", image: "/images/process/builder.png" },
 ];
 export const expedite = { title: "Skubūs užsakymai", text: "Terminas nuo 20 min." };
 export const startWays = [
@@ -74,14 +75,34 @@ export const materialGroups = [
   { title: "Plastikai", image: "/images/materials/plastic.png", note: "PMMA, HDPE, PVC", to: "plastiko-apdirbimas" },
   { title: "Mediena / akmuo", image: "/images/materials/wood.jpg", note: "Masyvas, guma, akmuo", to: "pjovimas-vandeniu" },
 ];
-export const clientGroups: { slug: string; title: string; image?: string; clients: { src: string; name: string }[] }[] = [];
-export const clientSectors: { slug: string; title: string; image: string }[] = [];
-export const clientLogos: { src: string; alt: string }[] = [];
+
+type ClientGroup = { slug: string; title: string; image?: string; clients: { src: string; name: string }[] };
+const clientsData = clientsJson as {
+  groups: ClientGroup[];
+  logos: { src: string; alt: string }[];
+  partners?: { src: string; alt: string }[];
+};
+
+export const clientGroups = clientsData.groups.filter((g) => g.slug !== "abc");
+export const clientSectors = clientGroups.map((g) => ({
+  slug: g.slug,
+  title: g.title,
+  image: g.image || "/images/hero-still.jpg",
+}));
+export const clientLogos = clientsData.logos;
 export const marqueeLogos = clientLogos;
-export function getClientGroup(_slug: string) {
-  return undefined as (typeof clientGroups)[number] | undefined;
+export function getClientGroup(slug: string) {
+  if (slug === "abc" || slug === "visiklientai") {
+    return {
+      slug: "abc",
+      title: "Visi klientai",
+      image: clientLogos[0]?.src,
+      clients: clientLogos.map((l) => ({ src: l.src, name: l.alt })),
+    };
+  }
+  return clientsData.groups.find((g) => g.slug === slug);
 }
-export const partnerLogos: { src: string; alt: string }[] = [];
+export const partnerLogos = clientsData.partners ?? [];
 export const donation = {
   title: "Donorystė",
   status: "UAB Polikopija palaiko kraujo donorystę.",

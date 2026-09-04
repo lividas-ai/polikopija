@@ -12,15 +12,19 @@ export function Logo({
     <Link
       to="/"
       className={cn(
-        "flex h-[30px] max-w-[42vw] shrink-0 items-center gap-1.5 md:w-[150px] md:max-w-none md:gap-2",
+        "flex h-[30px] max-w-[42vw] shrink-0 items-center md:max-w-none",
         className,
       )}
       aria-label="Polikopija pradžia"
     >
-      <span className="size-[18px] shrink-0 rounded-[4px] bg-red" aria-hidden />
-      <span className={cn("logo-word truncate", light ? "text-bg" : "text-ink")}>
-        polikopija
-      </span>
+      <img
+        src="/brand/logo.png"
+        alt="Polikopija"
+        className={cn(
+          "h-[28px] w-auto max-w-[148px] object-contain object-left",
+          light && "rounded-sm bg-white px-1.5 py-0.5",
+        )}
+      />
     </Link>
   );
 }

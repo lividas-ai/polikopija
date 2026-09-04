@@ -1,9 +1,10 @@
 import { Cta } from "@/components/ui/cta";
 import { MediaTile } from "@/components/ui/media-tile";
-import { company, faqs, materialGroups, processSteps } from "@/data/content";
+import { company, faqs, marqueeLogos, materialGroups, processSteps } from "@/data/content";
 import { services, tileImage } from "@/data/pages";
 
 export function HomePage() {
+  const logos = marqueeLogos.length ? [...marqueeLogos, ...marqueeLogos] : [];
   return (
     <div>
       <section className="relative overflow-hidden bg-header text-bg">
@@ -12,11 +13,27 @@ export function HomePage() {
           <h1 className="hero-title max-w-[16ch]">{company.tagline}</h1>
           <p className="hero-sub mt-4 max-w-[36ch]">{company.description}</p>
           <div className="mt-8 flex w-full max-w-md flex-col gap-3 sm:flex-row">
-            <Cta to="/kontaktai" variant="solidLg">Gauti pasiūlymą</Cta>
-            <Cta to="/paslaugos" variant="outlineLight">Paslaugos</Cta>
+            <Cta to="/kontaktai" variant="solidLg">
+              Gauti pasiūlymą
+            </Cta>
+            <Cta to="/paslaugos" variant="outlineLight">
+              Paslaugos
+            </Cta>
           </div>
         </div>
       </section>
+
+      {logos.length ? (
+        <section className="border-b border-line bg-bg py-6 md:py-8">
+          <div className="marquee-wrap">
+            <div className="marquee-track flex w-max items-center gap-10 px-8">
+              {logos.map((l, i) => (
+                <img key={`${l.src}-${i}`} src={l.src} alt={l.alt} className="h-9 w-auto max-w-[120px] object-contain opacity-70" />
+              ))}
+            </div>
+          </div>
+        </section>
+      ) : null}
 
       <section className="bg-header py-12 md:py-[70px]">
         <div className="wrap hidden md:block">
@@ -35,8 +52,12 @@ export function HomePage() {
           ))}
         </div>
         <div className="svc-cta-stack md:hidden">
-          <Cta to="/kontaktai" variant="outlineRed">Gauti pasiūlymą</Cta>
-          <Cta to="/paslaugos" variant="solidLg">Visos paslaugos</Cta>
+          <Cta to="/kontaktai" variant="outlineRed">
+            Gauti pasiūlymą
+          </Cta>
+          <Cta to="/paslaugos" variant="solidLg">
+            Visos paslaugos
+          </Cta>
         </div>
       </section>
 
@@ -51,7 +72,9 @@ export function HomePage() {
                   <p className="tile-title">{g.title}</p>
                   <p className="text-sm text-muted">{g.note}</p>
                 </div>
-                <span className="mat-go" aria-hidden>→</span>
+                <span className="mat-go" aria-hidden>
+                  →
+                </span>
               </a>
             ))}
           </div>
@@ -90,7 +113,9 @@ export function HomePage() {
             ))}
           </div>
           <div className="mt-10">
-            <Cta to="/kontaktai" variant="solidLg">Siųsti užklausą</Cta>
+            <Cta to="/kontaktai" variant="solidLg">
+              Siųsti užklausą
+            </Cta>
           </div>
         </div>
       </section>

@@ -1,0 +1,923 @@
+{
+  "groups": [
+    {
+      "slug": "abc",
+      "title": "Visi klientai",
+      "image": "/images/clients/2.png",
+      "clients": [
+        {
+          "src": "/images/clients/2.png",
+          "name": "2"
+        },
+        {
+          "src": "/images/clients/1.png",
+          "name": "1"
+        },
+        {
+          "src": "/images/clients/5.png",
+          "name": "5"
+        },
+        {
+          "src": "/images/clients/3.png",
+          "name": "3"
+        },
+        {
+          "src": "/images/clients/4.png",
+          "name": "4"
+        },
+        {
+          "src": "/images/clients/21.png",
+          "name": "21"
+        },
+        {
+          "src": "/images/clients/20.png",
+          "name": "20"
+        },
+        {
+          "src": "/images/clients/12.png",
+          "name": "12"
+        },
+        {
+          "src": "/images/clients/18.png",
+          "name": "18"
+        },
+        {
+          "src": "/images/clients/8.png",
+          "name": "8"
+        },
+        {
+          "src": "/images/clients/161.png",
+          "name": "161"
+        },
+        {
+          "src": "/images/clients/411.png",
+          "name": "411"
+        },
+        {
+          "src": "/images/clients/9.png",
+          "name": "9"
+        },
+        {
+          "src": "/images/clients/11.png",
+          "name": "11"
+        },
+        {
+          "src": "/images/clients/511.png",
+          "name": "511"
+        },
+        {
+          "src": "/images/clients/1111.png",
+          "name": "1111"
+        },
+        {
+          "src": "/images/clients/17.png",
+          "name": "17"
+        },
+        {
+          "src": "/images/clients/10.png",
+          "name": "10"
+        },
+        {
+          "src": "/images/clients/19.png",
+          "name": "19"
+        },
+        {
+          "src": "/images/clients/7.png",
+          "name": "7"
+        },
+        {
+          "src": "/images/clients/141.png",
+          "name": "141"
+        },
+        {
+          "src": "/images/clients/6.png",
+          "name": "6"
+        },
+        {
+          "src": "/images/clients/32.png",
+          "name": "32"
+        },
+        {
+          "src": "/images/clients/13.png",
+          "name": "13"
+        },
+        {
+          "src": "/images/clients/151.png",
+          "name": "151"
+        },
+        {
+          "src": "/images/clients/331.png",
+          "name": "331"
+        },
+        {
+          "src": "/images/clients/81.png",
+          "name": "81"
+        },
+        {
+          "src": "/images/clients/52.png",
+          "name": "52"
+        },
+        {
+          "src": "/images/clients/22.png",
+          "name": "22"
+        },
+        {
+          "src": "/images/clients/101.png",
+          "name": "101"
+        },
+        {
+          "src": "/images/clients/110.png",
+          "name": "110"
+        },
+        {
+          "src": "/images/clients/91.png",
+          "name": "91"
+        },
+        {
+          "src": "/images/clients/611.png",
+          "name": "611"
+        },
+        {
+          "src": "/images/clients/711.png",
+          "name": "711"
+        },
+        {
+          "src": "/images/clients/42.png",
+          "name": "42"
+        },
+        {
+          "src": "/images/clients/121.png",
+          "name": "121"
+        },
+        {
+          "src": "/images/clients/1121.png",
+          "name": "1121"
+        },
+        {
+          "src": "/images/clients/62.png",
+          "name": "62"
+        },
+        {
+          "src": "/images/clients/113.png",
+          "name": "113"
+        },
+        {
+          "src": "/images/clients/341.png",
+          "name": "341"
+        },
+        {
+          "src": "/images/clients/53.png",
+          "name": "53"
+        },
+        {
+          "src": "/images/clients/23.png",
+          "name": "23"
+        },
+        {
+          "src": "/images/clients/82.png",
+          "name": "82"
+        },
+        {
+          "src": "/images/clients/43.png",
+          "name": "43"
+        },
+        {
+          "src": "/images/clients/921.png",
+          "name": "921"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0010_transportas_lietuvos-gelezinkeliai.jpg",
+          "name": "Untitled-1 0010 transportas lietuvos-gelezinkeliai"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0008_transportas_jaguar.jpg",
+          "name": "Untitled-1 0008 transportas jaguar"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0011_transportas_volvo.jpg",
+          "name": "Untitled-1 0011 transportas volvo"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0009_transportas_land-rover.jpg",
+          "name": "Untitled-1 0009 transportas land-rover"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0007_transportas_ford.jpg",
+          "name": "Untitled-1 0007 transportas ford"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0006_transportas_autodina.jpg",
+          "name": "Untitled-1 0006 transportas autodina"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0005_transportas_altas1.jpg",
+          "name": "Untitled-1 0005 transportas altas1"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0016_finansai_dnb1.jpg",
+          "name": "Untitled-1 0016 finansai dnb1"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0012_finansai_swedbank.jpg",
+          "name": "Untitled-1 0012 finansai swedbank"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0013_finansai_seb.jpg",
+          "name": "Untitled-1 0013 finansai seb"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0015_finansai_finasta.jpg",
+          "name": "Untitled-1 0015 finansai finasta"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0014_finansai_sampo1.jpg",
+          "name": "Untitled-1 0014 finansai sampo1"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0003_paslaugos_svaros-broliai.jpg",
+          "name": "Untitled-1 0003 paslaugos svaros-broliai"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0001_paslaugos_aps-grupe.jpg",
+          "name": "Untitled-1 0001 paslaugos aps-grupe"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0000_paslaugos_admen.jpg",
+          "name": "Untitled-1 0000 paslaugos admen"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0002_paslaugos_ergolain1.jpg",
+          "name": "Untitled-1 0002 paslaugos ergolain1"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0003_reklamos-agenturos_propeller.jpg",
+          "name": "Untitled-1 0003 reklamos-agenturos propeller"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0004_reklamos-agenturos_vaizdine-reklama.jpg",
+          "name": "Untitled-1 0004 reklamos-agenturos vaizdine-reklama"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0001_reklamos-agenturos_doverta.jpg",
+          "name": "Untitled-1 0001 reklamos-agenturos doverta"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0002_reklamos-agenturos_incanto.jpg",
+          "name": "Untitled-1 0002 reklamos-agenturos incanto"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0000_partizanas1.jpg",
+          "name": "Untitled-1 0000 partizanas1"
+        }
+      ]
+    },
+    {
+      "slug": "automobiliaitransportas",
+      "title": "Automobiliai ir transportas",
+      "image": "/images/clients/Untitled-1_0010_transportas_lietuvos-gelezinkeliai.jpg",
+      "clients": [
+        {
+          "src": "/images/clients/Untitled-1_0010_transportas_lietuvos-gelezinkeliai.jpg",
+          "name": "Untitled-1 0010 transportas lietuvos-gelezinkeliai"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0008_transportas_jaguar.jpg",
+          "name": "Untitled-1 0008 transportas jaguar"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0011_transportas_volvo.jpg",
+          "name": "Untitled-1 0011 transportas volvo"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0009_transportas_land-rover.jpg",
+          "name": "Untitled-1 0009 transportas land-rover"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0007_transportas_ford.jpg",
+          "name": "Untitled-1 0007 transportas ford"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0006_transportas_autodina.jpg",
+          "name": "Untitled-1 0006 transportas autodina"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0005_transportas_altas1.jpg",
+          "name": "Untitled-1 0005 transportas altas1"
+        }
+      ]
+    },
+    {
+      "slug": "farmacija",
+      "title": "Farmacija",
+      "image": "/images/clients/2.png",
+      "clients": [
+        {
+          "src": "/images/clients/2.png",
+          "name": "2"
+        },
+        {
+          "src": "/images/clients/1.png",
+          "name": "1"
+        },
+        {
+          "src": "/images/clients/5.png",
+          "name": "5"
+        },
+        {
+          "src": "/images/clients/3.png",
+          "name": "3"
+        },
+        {
+          "src": "/images/clients/4.png",
+          "name": "4"
+        }
+      ]
+    },
+    {
+      "slug": "finansai",
+      "title": "Finansai",
+      "image": "/images/clients/Untitled-1_0016_finansai_dnb1.jpg",
+      "clients": [
+        {
+          "src": "/images/clients/Untitled-1_0016_finansai_dnb1.jpg",
+          "name": "Untitled-1 0016 finansai dnb1"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0012_finansai_swedbank.jpg",
+          "name": "Untitled-1 0012 finansai swedbank"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0013_finansai_seb.jpg",
+          "name": "Untitled-1 0013 finansai seb"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0015_finansai_finasta.jpg",
+          "name": "Untitled-1 0015 finansai finasta"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0014_finansai_sampo1.jpg",
+          "name": "Untitled-1 0014 finansai sampo1"
+        }
+      ]
+    },
+    {
+      "slug": "paslaugos",
+      "title": "Paslaugos",
+      "image": "/images/clients/Untitled-1_0003_paslaugos_svaros-broliai.jpg",
+      "clients": [
+        {
+          "src": "/images/clients/Untitled-1_0003_paslaugos_svaros-broliai.jpg",
+          "name": "Untitled-1 0003 paslaugos svaros-broliai"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0001_paslaugos_aps-grupe.jpg",
+          "name": "Untitled-1 0001 paslaugos aps-grupe"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0000_paslaugos_admen.jpg",
+          "name": "Untitled-1 0000 paslaugos admen"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0002_paslaugos_ergolain1.jpg",
+          "name": "Untitled-1 0002 paslaugos ergolain1"
+        }
+      ]
+    },
+    {
+      "slug": "pramonegamyba",
+      "title": "Pramonė ir gamyba",
+      "image": "/images/clients/21.png",
+      "clients": [
+        {
+          "src": "/images/clients/21.png",
+          "name": "21"
+        },
+        {
+          "src": "/images/clients/20.png",
+          "name": "20"
+        },
+        {
+          "src": "/images/clients/12.png",
+          "name": "12"
+        },
+        {
+          "src": "/images/clients/18.png",
+          "name": "18"
+        },
+        {
+          "src": "/images/clients/8.png",
+          "name": "8"
+        },
+        {
+          "src": "/images/clients/161.png",
+          "name": "161"
+        },
+        {
+          "src": "/images/clients/411.png",
+          "name": "411"
+        },
+        {
+          "src": "/images/clients/9.png",
+          "name": "9"
+        },
+        {
+          "src": "/images/clients/11.png",
+          "name": "11"
+        },
+        {
+          "src": "/images/clients/511.png",
+          "name": "511"
+        },
+        {
+          "src": "/images/clients/1111.png",
+          "name": "1111"
+        },
+        {
+          "src": "/images/clients/17.png",
+          "name": "17"
+        },
+        {
+          "src": "/images/clients/10.png",
+          "name": "10"
+        },
+        {
+          "src": "/images/clients/19.png",
+          "name": "19"
+        },
+        {
+          "src": "/images/clients/7.png",
+          "name": "7"
+        },
+        {
+          "src": "/images/clients/141.png",
+          "name": "141"
+        },
+        {
+          "src": "/images/clients/6.png",
+          "name": "6"
+        },
+        {
+          "src": "/images/clients/32.png",
+          "name": "32"
+        },
+        {
+          "src": "/images/clients/13.png",
+          "name": "13"
+        },
+        {
+          "src": "/images/clients/151.png",
+          "name": "151"
+        }
+      ]
+    },
+    {
+      "slug": "prekyba",
+      "title": "Prekyba",
+      "image": "/images/clients/331.png",
+      "clients": [
+        {
+          "src": "/images/clients/331.png",
+          "name": "331"
+        },
+        {
+          "src": "/images/clients/81.png",
+          "name": "81"
+        },
+        {
+          "src": "/images/clients/52.png",
+          "name": "52"
+        },
+        {
+          "src": "/images/clients/22.png",
+          "name": "22"
+        },
+        {
+          "src": "/images/clients/101.png",
+          "name": "101"
+        },
+        {
+          "src": "/images/clients/110.png",
+          "name": "110"
+        },
+        {
+          "src": "/images/clients/91.png",
+          "name": "91"
+        },
+        {
+          "src": "/images/clients/611.png",
+          "name": "611"
+        },
+        {
+          "src": "/images/clients/711.png",
+          "name": "711"
+        },
+        {
+          "src": "/images/clients/42.png",
+          "name": "42"
+        },
+        {
+          "src": "/images/clients/121.png",
+          "name": "121"
+        },
+        {
+          "src": "/images/clients/1121.png",
+          "name": "1121"
+        }
+      ]
+    },
+    {
+      "slug": "reklamos",
+      "title": "Reklama",
+      "image": "/images/clients/Untitled-1_0003_reklamos-agenturos_propeller.jpg",
+      "clients": [
+        {
+          "src": "/images/clients/Untitled-1_0003_reklamos-agenturos_propeller.jpg",
+          "name": "Untitled-1 0003 reklamos-agenturos propeller"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0004_reklamos-agenturos_vaizdine-reklama.jpg",
+          "name": "Untitled-1 0004 reklamos-agenturos vaizdine-reklama"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0001_reklamos-agenturos_doverta.jpg",
+          "name": "Untitled-1 0001 reklamos-agenturos doverta"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0002_reklamos-agenturos_incanto.jpg",
+          "name": "Untitled-1 0002 reklamos-agenturos incanto"
+        },
+        {
+          "src": "/images/clients/Untitled-1_0000_partizanas1.jpg",
+          "name": "Untitled-1 0000 partizanas1"
+        }
+      ]
+    },
+    {
+      "slug": "statybaviesasis",
+      "title": "Statyba ir viešasis sektorius",
+      "image": "/images/clients/62.png",
+      "clients": [
+        {
+          "src": "/images/clients/62.png",
+          "name": "62"
+        },
+        {
+          "src": "/images/clients/113.png",
+          "name": "113"
+        },
+        {
+          "src": "/images/clients/341.png",
+          "name": "341"
+        },
+        {
+          "src": "/images/clients/53.png",
+          "name": "53"
+        },
+        {
+          "src": "/images/clients/23.png",
+          "name": "23"
+        },
+        {
+          "src": "/images/clients/82.png",
+          "name": "82"
+        },
+        {
+          "src": "/images/clients/43.png",
+          "name": "43"
+        },
+        {
+          "src": "/images/clients/921.png",
+          "name": "921"
+        }
+      ]
+    }
+  ],
+  "logos": [
+    {
+      "src": "/images/clients/2.png",
+      "alt": "2"
+    },
+    {
+      "src": "/images/clients/1.png",
+      "alt": "1"
+    },
+    {
+      "src": "/images/clients/5.png",
+      "alt": "5"
+    },
+    {
+      "src": "/images/clients/3.png",
+      "alt": "3"
+    },
+    {
+      "src": "/images/clients/4.png",
+      "alt": "4"
+    },
+    {
+      "src": "/images/clients/21.png",
+      "alt": "21"
+    },
+    {
+      "src": "/images/clients/20.png",
+      "alt": "20"
+    },
+    {
+      "src": "/images/clients/12.png",
+      "alt": "12"
+    },
+    {
+      "src": "/images/clients/18.png",
+      "alt": "18"
+    },
+    {
+      "src": "/images/clients/8.png",
+      "alt": "8"
+    },
+    {
+      "src": "/images/clients/161.png",
+      "alt": "161"
+    },
+    {
+      "src": "/images/clients/411.png",
+      "alt": "411"
+    },
+    {
+      "src": "/images/clients/9.png",
+      "alt": "9"
+    },
+    {
+      "src": "/images/clients/11.png",
+      "alt": "11"
+    },
+    {
+      "src": "/images/clients/511.png",
+      "alt": "511"
+    },
+    {
+      "src": "/images/clients/1111.png",
+      "alt": "1111"
+    },
+    {
+      "src": "/images/clients/17.png",
+      "alt": "17"
+    },
+    {
+      "src": "/images/clients/10.png",
+      "alt": "10"
+    },
+    {
+      "src": "/images/clients/19.png",
+      "alt": "19"
+    },
+    {
+      "src": "/images/clients/7.png",
+      "alt": "7"
+    },
+    {
+      "src": "/images/clients/141.png",
+      "alt": "141"
+    },
+    {
+      "src": "/images/clients/6.png",
+      "alt": "6"
+    },
+    {
+      "src": "/images/clients/32.png",
+      "alt": "32"
+    },
+    {
+      "src": "/images/clients/13.png",
+      "alt": "13"
+    },
+    {
+      "src": "/images/clients/151.png",
+      "alt": "151"
+    },
+    {
+      "src": "/images/clients/331.png",
+      "alt": "331"
+    },
+    {
+      "src": "/images/clients/81.png",
+      "alt": "81"
+    },
+    {
+      "src": "/images/clients/52.png",
+      "alt": "52"
+    },
+    {
+      "src": "/images/clients/22.png",
+      "alt": "22"
+    },
+    {
+      "src": "/images/clients/101.png",
+      "alt": "101"
+    },
+    {
+      "src": "/images/clients/110.png",
+      "alt": "110"
+    },
+    {
+      "src": "/images/clients/91.png",
+      "alt": "91"
+    },
+    {
+      "src": "/images/clients/611.png",
+      "alt": "611"
+    },
+    {
+      "src": "/images/clients/711.png",
+      "alt": "711"
+    },
+    {
+      "src": "/images/clients/42.png",
+      "alt": "42"
+    },
+    {
+      "src": "/images/clients/121.png",
+      "alt": "121"
+    },
+    {
+      "src": "/images/clients/1121.png",
+      "alt": "1121"
+    },
+    {
+      "src": "/images/clients/62.png",
+      "alt": "62"
+    },
+    {
+      "src": "/images/clients/113.png",
+      "alt": "113"
+    },
+    {
+      "src": "/images/clients/341.png",
+      "alt": "341"
+    },
+    {
+      "src": "/images/clients/53.png",
+      "alt": "53"
+    },
+    {
+      "src": "/images/clients/23.png",
+      "alt": "23"
+    },
+    {
+      "src": "/images/clients/82.png",
+      "alt": "82"
+    },
+    {
+      "src": "/images/clients/43.png",
+      "alt": "43"
+    },
+    {
+      "src": "/images/clients/921.png",
+      "alt": "921"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0010_transportas_lietuvos-gelezinkeliai.jpg",
+      "alt": "Untitled-1 0010 transportas lietuvos-gelezinkeliai"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0008_transportas_jaguar.jpg",
+      "alt": "Untitled-1 0008 transportas jaguar"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0011_transportas_volvo.jpg",
+      "alt": "Untitled-1 0011 transportas volvo"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0009_transportas_land-rover.jpg",
+      "alt": "Untitled-1 0009 transportas land-rover"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0007_transportas_ford.jpg",
+      "alt": "Untitled-1 0007 transportas ford"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0006_transportas_autodina.jpg",
+      "alt": "Untitled-1 0006 transportas autodina"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0005_transportas_altas1.jpg",
+      "alt": "Untitled-1 0005 transportas altas1"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0016_finansai_dnb1.jpg",
+      "alt": "Untitled-1 0016 finansai dnb1"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0012_finansai_swedbank.jpg",
+      "alt": "Untitled-1 0012 finansai swedbank"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0013_finansai_seb.jpg",
+      "alt": "Untitled-1 0013 finansai seb"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0015_finansai_finasta.jpg",
+      "alt": "Untitled-1 0015 finansai finasta"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0014_finansai_sampo1.jpg",
+      "alt": "Untitled-1 0014 finansai sampo1"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0003_paslaugos_svaros-broliai.jpg",
+      "alt": "Untitled-1 0003 paslaugos svaros-broliai"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0001_paslaugos_aps-grupe.jpg",
+      "alt": "Untitled-1 0001 paslaugos aps-grupe"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0000_paslaugos_admen.jpg",
+      "alt": "Untitled-1 0000 paslaugos admen"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0002_paslaugos_ergolain1.jpg",
+      "alt": "Untitled-1 0002 paslaugos ergolain1"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0003_reklamos-agenturos_propeller.jpg",
+      "alt": "Untitled-1 0003 reklamos-agenturos propeller"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0004_reklamos-agenturos_vaizdine-reklama.jpg",
+      "alt": "Untitled-1 0004 reklamos-agenturos vaizdine-reklama"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0001_reklamos-agenturos_doverta.jpg",
+      "alt": "Untitled-1 0001 reklamos-agenturos doverta"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0002_reklamos-agenturos_incanto.jpg",
+      "alt": "Untitled-1 0002 reklamos-agenturos incanto"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0000_partizanas1.jpg",
+      "alt": "Untitled-1 0000 partizanas1"
+    }
+  ],
+  "partners": [
+    {
+      "src": "/images/clients/111.png",
+      "alt": "111"
+    },
+    {
+      "src": "/images/clients/41.png",
+      "alt": "41"
+    },
+    {
+      "src": "/images/clients/16.png",
+      "alt": "16"
+    },
+    {
+      "src": "/images/clients/Untitled-1_0016_finansai_dnb.jpg",
+      "alt": "Untitled-1 0016 finansai dnb"
+    },
+    {
+      "src": "/images/clients/EPTS_www.polikopija.lt_.jpg",
+      "alt": "EPTS www.polikopija.lt "
+    },
+    {
+      "src": "/images/clients/51.png",
+      "alt": "51"
+    },
+    {
+      "src": "/images/clients/61.png",
+      "alt": "61"
+    },
+    {
+      "src": "/images/clients/34.png",
+      "alt": "34"
+    },
+    {
+      "src": "/images/clients/lemona-logo.png",
+      "alt": "lemona-logo"
+    },
+    {
+      "src": "/images/clients/logo-1.jpg",
+      "alt": "logo-1"
+    },
+    {
+      "src": "/images/clients/71.png",
+      "alt": "71"
+    },
+    {
+      "src": "/images/clients/metalocentras.gif",
+      "alt": "metalocentras"
+    },
+    {
+      "src": "/images/clients/33.png",
+      "alt": "33"
+    },
+    {
+      "src": "/images/clients/statoil.png",
+      "alt": "statoil"
+    },
+    {
+      "src": "/images/clients/842-0.jpg",
+      "alt": "842-0"
+    }
+  ]
+}
